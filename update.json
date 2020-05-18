@@ -1,8 +1,5 @@
-{
-   "version" : "1.4",
-
-   "txt" : "الرسالة",
-
-   "url" : "https://www.youtube.com"
-
-}
+{ 
+"version" : "2.0",
+"txt" : "الرسالة",
+"url" : "https://i.ytimg.com/" 
+} 
